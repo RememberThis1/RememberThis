@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8E4C24C0249316DF00BDE2BD /* Auth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4C24BF249316DF00BDE2BD /* Auth.storyboard */; };
+		8E62D21A2493311500BFEB53 /* Groceries.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E62D2192493311500BFEB53 /* Groceries.storyboard */; };
 		8E8F4B602493173D00BA3B5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E8F4B5F2493173D00BA3B5B /* Main.storyboard */; };
 		8E8F4B622493175800BA3B5B /* OnboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E8F4B612493175800BA3B5B /* OnboardViewController.swift */; };
 		8E8F4B642493178400BA3B5B /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E8F4B632493178400BA3B5B /* NoteViewController.swift */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		8E4C24BF249316DF00BDE2BD /* Auth.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Auth.storyboard; sourceTree = "<group>"; };
+		8E62D2192493311500BFEB53 /* Groceries.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Groceries.storyboard; sourceTree = "<group>"; };
 		8E8F4B5F2493173D00BA3B5B /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8E8F4B612493175800BA3B5B /* OnboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardViewController.swift; sourceTree = "<group>"; };
 		8E8F4B632493178400BA3B5B /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				8E4C24BF249316DF00BDE2BD /* Auth.storyboard */,
 				8EF22A5C249314EE001B180A /* LaunchScreen.storyboard */,
 				8E8F4B65249317A200BA3B5B /* NoteCollectionViewCell.swift */,
+				8E62D2192493311500BFEB53 /* Groceries.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E62D21A2493311500BFEB53 /* Groceries.storyboard in Resources */,
 				8E4C24C0249316DF00BDE2BD /* Auth.storyboard in Resources */,
 				8EF22A5E249314EE001B180A /* LaunchScreen.storyboard in Resources */,
 				8EF22A5B249314EE001B180A /* Assets.xcassets in Resources */,
